@@ -29,7 +29,7 @@
 
 # Deploy straight to Heroku!
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/No-OnE-Kn0wS-Me/FileRenameBot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Jesus12311/FileRenameBot)
 
 # Required Strings :-
 
@@ -43,3 +43,4 @@
 
 * [SpEcHlDe](https://telegram.dog/SpEcHlDe) For [AnydlBot](https://github.com/SpEcHiDe/AnyDLBot)
 * [Dan](https://github.com/delivrance) For This Mind Blowing [Library](https://github.com/pyrogram/pyrogram)
+Tap on a clip to paste it in the text box.
