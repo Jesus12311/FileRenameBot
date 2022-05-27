@@ -28,7 +28,7 @@
 
 
 # Deploy straight to Heroku!
-[![Deploy](https://heroku.com/deploy?template=https://github.com/No-OnE-Kn0wS-Me/renamerprov2)
+[!Deploy](https://heroku.com/deploy Jesus12311 template=https://github.com/No-OnE-Kn0wS-Me/FileRenameBot)
 
 # Required Strings :-
 
